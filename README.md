@@ -33,7 +33,7 @@ Symbol   : POL
 
 3. Fund with Test POL
 
-Go to: https://faucet.polygon.technology
+
 Select: Amoy Testnet
 Receive: 0.5–2 POL
 
